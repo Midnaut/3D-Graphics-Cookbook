@@ -1,3 +1,3 @@
 To use:
-  - Open shell
-  - run `python bootstrap.py`
+  - Open shell in folder
+  - Run `python bootstrap.py`
