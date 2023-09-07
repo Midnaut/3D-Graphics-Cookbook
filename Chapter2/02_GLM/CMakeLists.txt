@@ -6,4 +6,4 @@ include(../../CMake/CommonMacros.txt)
 
 SETUP_APP(Ch2_Sample02_GLM "Chapter 02")
 
-target_link_libraries(Ch2_Sample02_GLM glfw)
+target_link_libraries(Ch2_Sample02_GLM glfw3)
